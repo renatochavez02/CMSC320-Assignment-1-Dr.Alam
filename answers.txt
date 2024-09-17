@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+Answer: Git is helpful because it allows you to track any changes to your code over time, permits multiple people to work on the same project, and makes it possible to push the code to remote repositories such as GitHub.
+
